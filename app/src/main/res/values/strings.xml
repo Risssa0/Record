@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Record</string>
+        <string name="start_recording">Начать запись</string>
+        <string name="timerTextView">00:00</string>
+        <string name="result_placeholder">Результат будет здесь</string>
+        <string name="words_count_text">Количество слов: 0</string>
+        <string name="words_per_minute_text">Слов в минуту: 0.0</string>
+        <string name="recognition_error_message">Ошибка распознавания речи: </string>
+        <string name="recognizing_message">Распознавание…</string>
+    <string name="recorded_text_placeholder">Вы сказали: </string>
+    </resources>
